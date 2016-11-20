@@ -1,0 +1,30 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+div#slider{
+	width: 550px;
+	height: 500px;
+	border: 5px solid black;
+	margin: 100px  auto;
+	margin-bottom: 10px;	
+}
+
+input{
+	display: block;
+	margin: 20px auto;
+}
+
+#izq,#der{
+	width: 50px;
+	height: 50px;
+}
+
+input#izq{
+	float: left;
+}
+
+input#der{
+	float: right;
+}
